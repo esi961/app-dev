@@ -1,7 +1,7 @@
 # 🪄 My Favorite Movie
 
 <p align="center">
-  <img src="harry-potter.jpg" alt="Harry Potter" width="400">
+  <Screenshot 2026-11-11 150918.png>
 </p>
 
 ## 🎬 Harry Potter and the Sorcerer's Stone
