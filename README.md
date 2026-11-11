@@ -1,11 +1,14 @@
+# 🪄 My Favorite Movie
 
-# My Favorite Movie
+<p align="center">
+  <img src="harry-potter.jpg" alt="Harry Potter" width="400">
+</p>
 
-Harry Potter and the Sorcerer's Stone
+## 🎬 Harry Potter and the Sorcerer's Stone
 
 Harry Potter and the Sorcerer's Stone is the first movie in the Harry Potter series. The story follows Harry Potter, who discovers the wizarding world and receives an invitation to study at Hogwarts School of Witchcraft and Wizardry.
 
-## Main Characters
+## 🧙 Main Characters
 
 - Harry Potter
 - Hermione Granger
@@ -13,7 +16,7 @@ Harry Potter and the Sorcerer's Stone is the first movie in the Harry Potter ser
 - Albus Dumbledore
 - Rubeus Hagrid
 
-## Why I Like It
+## 💖 Why I Like It
 
 - The magical world is interesting.
 - The characters are memorable.
@@ -21,10 +24,10 @@ Harry Potter and the Sorcerer's Stone is the first movie in the Harry Potter ser
 - The friendship between Harry, Ron, and Hermione is inspiring.
 - Hogwarts is an exciting setting.
 
-## Favorite Quote
+## ✨ Favorite Quote
 
 "It does not do to dwell on dreams and forget to live."
 
-## My Rating
+## ⭐ My Rating
 
 ⭐⭐⭐⭐⭐ 5/5
