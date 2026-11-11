@@ -1,6 +1,6 @@
 # 🪄 My Favorite Movie
-
-  <Screenshot 2026-11-11 150918.png> 
+ 
+<img width="350" height="567" alt="Screenshot 2026-11-11 150918" src="https://github.com/user-attachments/assets/286fd434-03fe-47ae-96c9-17986f59d691" />
 
 ## 🎬 Harry Potter and the Sorcerer's Stone
 
